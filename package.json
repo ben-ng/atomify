@@ -31,7 +31,7 @@
   "license": "MIT",
   "dependencies": {
     "atomify-css": "^2.0.0",
-    "atomify-js": "https://github.com/atomify/atomify-js/archive/minifyify-redux.tar.gz",
+    "atomify-js": "ben-ng/atomify-js",
     "browser-sync": "^0.9.1",
     "colors": "^0.6.2",
     "gaze": "^0.5.1",
